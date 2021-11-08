@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+My name is Luke Maxwell, aka Giant
+
+
+[![giantninja908's github stats](https://github-readme-stats.vercel.app/api?username=giantninja908&theme=dark&show_icons=true)](https://github.com/giantninja908)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giantninja908)](https://github.com/giantninja908)
+
 <!--
 **giantninja908/giantninja908** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
